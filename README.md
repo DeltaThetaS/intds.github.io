@@ -1,5 +1,4 @@
-# intds.github.io
+# $\int d s$
 
 Hej hej
 
-\int ds
